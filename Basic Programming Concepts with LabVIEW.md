@@ -6,7 +6,7 @@ Something I found a little frustrating when going through LabVIEW’s training m
 
 Most beginner guides to programming languages begin with simple strings, so I will follow that example and show you a simple string output in LabVIEW.
 
-To begin, open a new VI in LabVIEW with **CTRL+N** from the splash screen. This will open two windows: the Front Panel and the Block Diagram.
+To begin, open a new VI in LabVIEW with **CTRL+N** from the splash screen. This will open two windows: the Front Panel and the Block Diagram, as seen in the image below.
 
 ![blank front panel](images/strings_front%20panel.png)
 
