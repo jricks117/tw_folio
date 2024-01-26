@@ -5,8 +5,8 @@
 ## Basic Structure and Front Panel Controls
 1.	Open LabVIEW and create a new VI by pressing **CTRL + N**.
 2.	Show the Block Diagram by pressing **CTRL + E**.
-3.	Place a while loop on the block diagram.
-4.	Wire a **Stop** button to the while loop’s stop condition.
+3.	Navigate to **Programming > Structures > While Loop** to place a while loop on the block diagram.
+4.	Place a stop button on the front panel (**Modern > Boolean > Stop Button**), then press **CTRL+E** and wire the stop button to the while loop’s stop condition.
 5.	Place a case structure inside the while loop. Case Structure is found on the Structures palette along with the while loop. The case structure will contain the code associated with each command.
 6.	Show the Front Panel by pressing **CTRL + E**.
 7.	Place an enum control on the front panel.  
