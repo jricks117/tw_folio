@@ -7,9 +7,9 @@
 2.	Show the Block Diagram by pressing **CTRL + E**.
 3.	Navigate to **Programming > Structures > While Loop** to place a while loop on the block diagram.
 4.	Place a stop button on the front panel (**Modern > Boolean > Stop Button**), then press **CTRL+E** and wire the stop button to the while loop’s stop condition.
-5.	Place a case structure inside the while loop. Case Structure is found on the Structures palette along with the while loop. The case structure will contain the code associated with each command.
+5.	Place a case structure inside the while loop. The case structure is found on the Structures palette along with the while loop. The case structure will contain the code associated with each command.
 6.	Show the Front Panel by pressing **CTRL + E**.
-7.	Place an enum control on the front panel.  
+7.	Place an enum control on the front panel (**Modern > Ring and Enum > Enum**).  
  ![Where to find the enum control](images/enumControlMenu.png)
 8.	Highlight the label on the enum control and rename it *State*.
 9.	Right-click the enum control and select **Edit Items**. This will open the Enum Properties window.  
@@ -31,11 +31,15 @@
 
 [line break (above) is two spaces after line.]: #
 19.	Change the display of the numeric control to show time format.
-a.	Right-click the numeric control.
-b.	Select Display Format.
-c.	Under Type select Relative Time.
-d.	Select HH:MM:SS with 2 digits of precision.
-e.	Click OK.  
+
+<ol type=a>	
+ <li>Right-click the numeric control. </li> 
+ <li>	Select Display Format.  </li>
+ <li>	Under Type select Relative Time.  </li>
+ <li>	Select HH:MM:SS with 2 digits of precision. </li>
+ <li>	Click <strong>OK</strong>.  </li>
+</ol>  
+
 ![Numeric control named elapsed time](images/numericControlDisplayFormat.png)
 
  
@@ -52,5 +56,5 @@ Now that we have our structure, we can build a basic timer. You will be able to 
  ![How to replace tunnel with shift register](images/shiftRegisterWired.png)
 
 6.	To convert the date/time (brown wire) to double precision (orange wire), right-click on the wire inside the case structure and select **Insert  >>  Numeric >> Conversion >> To Double Precision**.
-7.	
+
 
