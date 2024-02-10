@@ -1,0 +1,120 @@
+body {
+    background-color: #c1c1c1;
+    color: #191919;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+  }
+  
+  .display-4 {
+    padding-top: 200px; 
+    text-align: center;
+    font-family: 'Gruppo', cursive;
+    letter-spacing: 5px;
+    font-size: 120px;
+  }
+  
+  .lead {
+    padding-bottom: 200px;
+    text-align: center;
+    font-family: 'Gruppo', cursive;
+    letter-spacing: 5px;
+    font-size: 40px;
+  }
+  
+  #navbar-shadow {
+    -webkit-box-shadow: 0px 2px 10px 1px #191919;  
+    -moz-box-shadow: 0px 2px 10px 1px #191919;  
+    box-shadow: 0px 2px 10px 1px #191919;  
+      
+  }
+  
+  .navbar {
+    background-color: #191919;
+  }
+  
+  .nav-link {
+    font-size: 20px;
+  }
+  
+  #about-title {
+    padding-top: 200px; 
+    text-align: left;
+    font-family: 'Gruppo', cursive;
+    letter-spacing: 5px;
+    font-size: 40px;
+  }
+  
+  .avatar {
+    margin-top: 250px;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+  }
+  
+  .about-text {
+    font-size: 16px;
+  }
+  
+  #portfolio-title {
+    padding-top: 200px; 
+    text-align: left;
+    font-family: 'Gruppo', cursive;
+    letter-spacing: 5px;
+    font-size: 40px;
+  }
+  
+  .card {
+    -webkit-box-shadow: 5px 5px 10px 1px #8a8a8a;  
+    -moz-box-shadow: 5px 5px 10px 1px #8a8a8a;  
+    box-shadow: 5px 5px 10px 1px #8a8a8a;
+  }
+  
+  #contact-title {
+    padding-top: 200px; 
+    text-align: left;
+    font-family: 'Gruppo', cursive;
+    letter-spacing: 5px;
+    font-size: 40px;
+  }
+  
+  .fa {
+      padding: 20px;
+      font-size: 30px;
+  }
+  
+  
+  .fa-linkedin:hover {
+      color: #007bb5;
+  }
+  
+  .fa-linkedin {
+      color: white;
+      background: transparent;
+  }
+  
+  .fa-github:hover {
+    color: #6cc644;
+  }
+  .fa-github {
+      color: white;
+      background: transparent;
+  }
+  
+  .fa-codepen:hover {
+    color: #AE63E4;
+  }
+  
+  .fa-codepen {
+      color: white;
+      background: transparent;
+  }
+  
+  footer {
+    width: 100%;
+    background-color: #191919;
+    margin-top: 40px;
+    padding: 20px;
+    align: center;
+  }
