@@ -3,8 +3,7 @@
 The retail market is full of computers for every level of consumer, from casual home users to professionals and enthusiasts. So, why would you put in the extra effort, and perhaps the extra cost, to build a computer from scratch? 
 
 1.	*Choosing your own components*  
-Retail computers come pre-packaged with components, and you have no control over the quality or age of those components. A reasonably powerful retail computer may have the latest CPU and a lot of RAM, for example, but the graphics card may be a generation old. For a high-end retail computer, expect to pay well over $3,000.00 for a custom computer with all of the best and latest components. A reasonably powerful retail computer can be acquired for around $1,000.00, but again, you may be paying for older components of lesser quality.
-
+Retail computers come pre-packaged with components, and you have no control over the quality or age of those components. A reasonably powerful retail computer may have the latest CPU and a lot of RAM, for example, but the graphics card may be a generation old. For a high-end retail computer, expect to pay well over $3,000.00 for a custom computer with all of the best and latest components. A reasonably powerful retail computer can be acquired for around $1,000.00, but again, you may be paying for older components of lesser quality.  
 By choosing your own components, you have control over your computer’s specifications, the quality of its components, and some control over its price.
 
 2.	*No Bloatware*  
