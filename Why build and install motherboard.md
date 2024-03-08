@@ -28,8 +28,8 @@ Installing your motherboard is the first step in building your own computer. Mak
 -	flush cutters 
 > :bulb: **Tip:** Using an anti-static wrist strap or an anti-static mat is recommended.
 
- ![picture of listed tools](images/motherboard_tools.jpg | width=25)
- <img src="images/motherboard_tools.jpg" width="50%" height="auto">
+ <!--![picture of listed tools](images/motherboard_tools.jpg)-->  
+ <img src="images/motherboard_tools.jpg" width="25%" height="auto">  
   
 1.	Place your case on a flat work surface and remove the panels to access the motherboard mount. Remove the motherboard mount from the case, if it is removable. 
 2.	Insert the standoff screws. The standoff screws will be included with your case.
