@@ -32,7 +32,7 @@ Installing your motherboard is the first step in building your own computer. Mak
   
 1.	Place your case on a flat work surface and remove the panels to access the motherboard mount. Remove the motherboard mount from the case, if it is removable. 
 2.	Insert the standoff screws. The standoff screws will be included with your case.
-> :memo: **Note:** Consult your motherboard’s documentation for the correct screw hole pattern as many cases accommodate many sizes of motehrboard.
+> :memo: **Note:** Consult your motherboard’s documentation for the correct screw hole pattern.
   
  ![standoff screws inserted into computer case](images/motherboard_standoff.jpg)
  
