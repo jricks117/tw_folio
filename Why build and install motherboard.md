@@ -38,7 +38,7 @@ Installing your motherboard is the first step in building your own computer. Mak
  
 3.	Install the motherboard I/O shield. It will snap into place from inside the case.
   
-![i/o shield inserted into case](images/motherboard_io%20panel.jpg)
+![i/o shield inserted into case](images/motherboard_io%20panel.jpg)  
  
 4.	Align the motherboard with the I/O shield and standoff screws. 
 
